@@ -15,7 +15,7 @@ along with the new MAC address to be applied. This script eliminates the need to
 <br></br>
 
 <h3> ENVIRONMENT USED </h3>  
-Linux 
+<b> Linux </b> 
 
 <h3> IMPORTS </h3>
 
