@@ -20,4 +20,4 @@ Linux
 <h3> IMPORTS </h3>
 
 - <b> subprocess </b>: allows us to execute system commands
-- Re:
+- <b> Re </b> : enables us to work with complex string patterns
