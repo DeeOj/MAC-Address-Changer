@@ -103,7 +103,7 @@ Final Ouput:
 
 <h2> CONCLUSION </h2>
 
-The "MAC Address Changer" project demonstrates the power of automation in network configuration tasks. By leveraging Python scripting and subprocess execution, we've developed a tool capable of dynamically changing MAC addresses on Linux systems. This project not only enhances efficiency but also contributes to cybersecurity awareness by showcasing the potential vulnerabilities associated with MAC address spoofing.
+The "MAC Address Changer" project demonstrates the power of automation in network configuration tasks. By leveraging Python scripting and subprocess execution, I've developed a tool capable of dynamically changing MAC addresses on Linux systems. This project not only enhances efficiency but also contributes to my cybersecurity awareness by showcasing the potential vulnerabilities associated with MAC address spoofing if built in a certain way.
 
 <br></br>
 
