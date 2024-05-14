@@ -101,9 +101,12 @@ Final Ouput:
 <img src="https://imgur.com/pCerdH1.jpg" height="90%", width="90%">  
 </p>
 
+<h2> CONCLUSION </h2>
 
+The "MAC Address Changer" project demonstrates the power of automation in network configuration tasks. By leveraging Python scripting and subprocess execution, we've developed a tool capable of dynamically changing MAC addresses on Linux systems. This project not only enhances efficiency but also contributes to cybersecurity awareness by showcasing the potential vulnerabilities associated with MAC address spoofing.
 
+<br></br>
 
 <p align="center">
-  
+<b> Thank you for joining me on this journey. </b>
 </p>
