@@ -52,7 +52,8 @@ Now, we run the "ifconfig" command to see what has happened to the MAC address f
 
 <h3> AUTOMATING TASK USING PYTHON </h3>
 
-
+I will be building this script and running it at different phases through the terminal.
+Also, I will be writing my commands and arguments as a list, splitting them into a number of elements. This is so as to avoid using the "shell=True" Parameter in the subprocess function, which has the potential to grant users the ability to enter Linux commands, which can be actually executed on the system. In simpler terms, to avoid creating a vulnerability that could undergo shell injection attacks.
 
 
 
