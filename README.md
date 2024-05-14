@@ -8,3 +8,14 @@ Since it's different for each device, spoofing or changing it on a software leve
 <br></br>
 
 <h2> OBJECTIVE </h2>
+Write a Python script that, when executed in the terminal, prompts the user to input a network interface for which they want to change the MAC address,
+along with the new MAC address to be applied. This script eliminates the need to manually disable and re-enable the network interface each time a MAC address change is required.
+<br></br>
+
+<h3> ENVIRONMENT USED </h3>  
+Linux 
+
+<h3> IMPORTS </h3>
+
+- <b> subprocess </b>: allows us to execute system commands
+- Re:
