@@ -1,6 +1,6 @@
 <h1> PROJECT: MAC ADDRESS CHANGER </h1>
 
-<h2>  INTRO </p> </h2>
+<h2>  INTRO  </h2>
 A MAC address is a unique identifier assigned to network devices, like computers or smartphones, for communication within a network. 
 Since it's different for each device, spoofing or changing it on a software level can help during a penentration test to:
 
